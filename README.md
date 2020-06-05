@@ -14,4 +14,6 @@ Here are some descriptions to the files in this folder:
 
 5. How People React to COVID 19_Sunny Li&Yilun Xu.pdf: Project report
 
+6. slim_tweets_0125: Data for the project
+
 
