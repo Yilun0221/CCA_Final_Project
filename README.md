@@ -1,6 +1,6 @@
 # CCA_Final_Project
 
-This folder shows the group work of Sunny Li and Yilun Xu.
+This folder shows the group work of Sunny Li and Yilun Xu. We extracted 1.25% of English tweets in and before March to see people's attitudes towards COVID 19.
 
 Here are some descriptions to the files/folder in this folder:
 1. slim_tweets_0125: Data for the project
