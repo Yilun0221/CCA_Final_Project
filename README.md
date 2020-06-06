@@ -6,7 +6,7 @@ Here are some descriptions to the files/folder in this folder:
 
 1. Semantic Influence Networks.ipynb: Code for the project, part 1
 
-2. 
+2. Vector-Space-Word-Embeddings_COVID 19 Tweet.ipynb: Code for the project, part 2
 
 3. Classification, Sentiment Analysis and Topic Modeling.ipynb: Code for the project, part 3
 
@@ -15,5 +15,7 @@ Here are some descriptions to the files/folder in this folder:
 5. How People React to COVID 19_Sunny Li&Yilun Xu.pdf: Project report
 
 6. slim_tweets_0125: Data for the project
+
+7. Final Presentation_Sunny Li&Yilun Xu.pdf: Final presentation slides
 
 
